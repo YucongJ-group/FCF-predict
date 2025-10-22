@@ -1,4 +1,4 @@
-# FCF-predicted
+# FCF-predict
 A method for predicting molecular FCF, LUMO and Gap values by machine learning
 for ML part:
   scikit-learn
